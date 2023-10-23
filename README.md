@@ -1,1 +1,1 @@
-# Horriseon-SEO
+# Horiseon-SEO
