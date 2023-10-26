@@ -6,7 +6,7 @@ For this first challenge, I've been given an on-the-job ticket. As "a marketing 
 
 ## Screenshot
 
-![screenshot] (file:///Users/nicholasholder/Desktop/challenges/Horiseon-SEO-First%20Challenge/index.html)
+![screenshot](./assets/images/Screenshot.png)
 
 ## URL's
 
